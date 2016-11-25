@@ -1,0 +1,3 @@
+package: github.com/leeola/gorun
+import:
+- package: github.com/leeola/errors

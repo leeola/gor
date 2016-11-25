@@ -1,0 +1,6 @@
+hash: c57021a9ff330e89989595fde4dbd1ee799d28cd1a5e8a52e6e210b151716e50
+updated: 2016-11-25T11:32:27.729107237-08:00
+imports:
+- name: github.com/leeola/errors
+  version: ea7651e75272105fcbf3191979adc5def2d5ab8a
+testImports: []
